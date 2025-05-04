@@ -1,0 +1,9 @@
+docusaurus:
+  label: 'Docusaurus'
+  permalink: '/docusaurus'
+  description: 'Docs related to the Docusaurus framework'
+
+Releases:
+  label: 'Releases'
+  permalink: '/releases'
+  description: 'Docs related to the Docusaurus framework'
